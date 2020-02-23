@@ -3,3 +3,7 @@ def sum(a,b):
 
 print(sum(5,6))
 print(sum(5,6))
+
+while True:
+    number1 = input("Number1")
+    print(number1)
