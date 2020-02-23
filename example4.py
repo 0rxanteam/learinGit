@@ -10,4 +10,4 @@ while True:
     print(number1)
     print(sum(5,9))
     print(sum(5,6))
-    print(sum(5,6))
+    print(sum(5,60))
