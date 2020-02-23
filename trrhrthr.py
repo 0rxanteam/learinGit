@@ -93,6 +93,7 @@ print("56641")
 print("56641")
 print("56641")
 print("56641")
+<<<<<<< HEAD
 print("56641")print("56641")
 print("56641")
 print("56641")
@@ -104,4 +105,6 @@ print("56641")
 print("56641")
 print("56641")
 print("56641")
+=======
+>>>>>>> student2
 print("56641")
